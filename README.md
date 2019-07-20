@@ -1,1 +1,1 @@
-# Propeller-Dispaly
+# Simple Propeller Dispaly
