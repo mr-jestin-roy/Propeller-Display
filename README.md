@@ -1,1 +1,2 @@
-# Simple Propeller Dispaly
+# Simple Propeller Display
+
