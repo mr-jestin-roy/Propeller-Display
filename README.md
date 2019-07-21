@@ -16,3 +16,4 @@
 ###  9. DC Power supply (5V)
 ###  10. Universal PCB
 ###  11. Connecting wires
+###  12. 7805 Voltage Controller
