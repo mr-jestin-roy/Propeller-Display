@@ -14,3 +14,5 @@
 ###  7. Capacitor (10 micro)
 ###  8. Crystal (11.0592MHZ)
 ###  9. DC Power supply (5V)
+###  10. Universal PCB
+###  11. Connecting wires
