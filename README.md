@@ -6,6 +6,11 @@
 ## Hardware Components
 ###  1. 8051 Micro controller
 ###  2. 1200RPM Motor
-###  3. LED - 8 (With a colour)
+###  3. LED - 8 (With a color)
 ###  4. IR led
 ###  5. Photo Diode
+###  6. Resistors - 220 Ohm(9)
+###                 10K Ohm(2)
+###  7. Capacitor (10 micro)
+###  8. Crystal (11.0592MHZ)
+###  9. DC Power supply (5V)
