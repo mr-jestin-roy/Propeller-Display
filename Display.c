@@ -6,12 +6,12 @@
 
 #define led PORTA
 
-unsigned int dela=5;
+unsigned int d=5; //Delay
 
 void delay(void)
 {
 
-_delay_ms(dela/80);
+_delay_ms(d/80);
 
 }
 
