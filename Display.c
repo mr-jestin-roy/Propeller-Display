@@ -24,15 +24,15 @@ void main()
 
 while(1)
 {
-    display('H'); //display T
-    display('S'); //display H
-    display('E'); //display A
-    display('J'); //display M
-    display('I'); //display E
-    display('R'); //display E
-    display('B'); //display M
+    display('T'); //display T
+    display('H'); //display H
+    display('A'); //display A
+    display('M'); //display M
+    display('E'); //display E
+    display('E'); //display E
+    display('M'); //display M
 
-    _delay_ms(80); //Delay 
+    _delay_ms(80); //Delay
 
 }
 
