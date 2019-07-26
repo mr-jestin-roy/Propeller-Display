@@ -20,20 +20,19 @@ void display(unsigned char x);
 void main()
 {
   DDRA=0xff; //Output Port
-}
+  while(1)
+  {
+      display('T'); //display T
+      display('H'); //display H
+      display('A'); //display A
+      display('M'); //display M
+      display('E'); //display E
+      display('E'); //display E
+      display('M'); //display M
 
-while(1)
-{
-    display('T'); //display T
-    display('H'); //display H
-    display('A'); //display A
-    display('M'); //display M
-    display('E'); //display E
-    display('E'); //display E
-    display('M'); //display M
+      _delay_ms(80); //Delay
 
-    _delay_ms(80); //Delay
-
+  }
 }
 
 //Not yet completed
