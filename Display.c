@@ -41,6 +41,13 @@ void display(unsigned char x)
 {
   switch (x) {
 
+    case 'T' : //To dispaly Letter A
+    l=0xFE; delay( );
+    l=0xFE; delay( );
+    l=0x00; delay( );
+    l=0xFE; delay( );
+    l=0xFE; delay( );
+
     case 'H' : // To Display Letter H
     l=0x01; delay( );
     l=0xEF; delay( );
@@ -49,6 +56,22 @@ void display(unsigned char x)
     l=0x01; delay( );
     l=0xff; delay( );
     break;
+
+    case 'A' : // To Display Letter A
+    l=0x81; delay( );
+    l=0x6F; delay( );
+    l=0x6F; delay( );
+    l=0x6F; delay( );
+    l=0x81; delay( );
+    l=0xff; delay( );
+    break;
+
+    case 'M' : // To Dispaly Letter M
+    l=0x00; delay( );
+    l=0xBF; delay( );
+    l=0xDF; delay( );
+    l=0xBF; delay( );
+    l=0x00; delay( );
 
     case 'E': //To  Display Letter E
     l=0x6D; delay( );
