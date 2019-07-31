@@ -40,10 +40,20 @@ void main()
 void display(unsigned char x)
 {
   switch (x) {
+
+    case 'H' : // To Display Letter H
+    led=0x01; delay( );
+    led=0xEF; delay( );
+    led=0xEF; delay( );
+    led=0xEF; delay( );
+    led=0x01; delay( );
+    led=0xff; delay( );
+    break;
+
     case 'E': //To  Display Letter E
     l=0x6D; delay( );
-    l=0x6f; delay( );
-    l=0x6f; delay( );
+    l=0x6D; delay( );
+    l=0x6D; delay( );
     l=0x6D; delay( );
     l=0x01; delay( );
     l=0xff; delay( );
