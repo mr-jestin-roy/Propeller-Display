@@ -22,3 +22,6 @@
 
 ## Logic behind letters
 ![Assigning letters](https://raw.githubusercontent.com/thameemk612/Propeller-Display/master/assets/1.png)
+
+##### 0x81 -> 10000001
+##### 0x6F -> 01101000
