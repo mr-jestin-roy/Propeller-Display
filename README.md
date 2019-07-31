@@ -25,3 +25,6 @@
 
 ##### 0x81 -> 10000001
 ##### 0x6F -> 01101000
+
+## Circuit Diagram
+![Circuit Diagram](https://raw.githubusercontent.com/thameemk612/Propeller-Display/master/assets/2.png)
