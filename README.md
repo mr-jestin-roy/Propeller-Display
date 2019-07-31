@@ -3,7 +3,7 @@
 ## What is propeller display ??
 ### A Propeller display is a mechanically-scanned device that displays its characters in a digital format
 
-### <a target=_blank href="https://ijireeice.com/wp-content/uploads/2014/12/IJIREEICE-15.pdf">Reference</a>
+### <a target="_blank" href="https://ijireeice.com/wp-content/uploads/2014/12/IJIREEICE-15.pdf">Reference</a>
 
 ## Hardware Components
 ###  1. 8051 Micro controller
