@@ -21,4 +21,4 @@
 ###  12. 7805 Voltage Controller
 
 ## Logic behind letters
-![Assigning letters](https://github.com/thameemk612/Propeller-Display/assets/1.png)
+![Assigning letters](https://raw.githubusercontent.com/thameemk612/Propeller-Display/master/assets/1.png)
