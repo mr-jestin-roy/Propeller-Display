@@ -41,7 +41,7 @@ void display(unsigned char x)
 {
   switch (x) {
 
-    case 'T' : //To dispaly Letter A
+    case 'T' : //To dispaly Letter T
     l=0xFE; delay( );
     l=0xFE; delay( );
     l=0x00; delay( );
